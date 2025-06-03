@@ -271,7 +271,7 @@ From CBK
 
 From CBK
 
-— SP 800-12: An Introduction to Computer Security: The NIST Handbook
+- SP 800-12: An Introduction to Computer Security: The NIST Handbook
 - SP 800-14: Generally Accepted Principles and Practices for Security IT Systems
 - SP 800-18: Guide for Developing Security Plans for Federal Systems
 - SP 800-27: Engineering Principles for Information Technology Security
