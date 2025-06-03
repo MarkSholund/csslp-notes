@@ -226,6 +226,7 @@ higher EAL != better security
 SPICE/SPICD - Software Process Improvement and Capability Determination
 
 From CBK
+
 - ISO/IEC 15408: Common Criteria
 - ISO/IEC 21827:2008 - Systems Security Engineering Capability Maturity Model (SSE-CMM)
 - ISO/IEC 25000:2005 - Software Engineering Product Quality
@@ -256,6 +257,7 @@ Information Technology Laboratory (ITL)
 - Since FISMA, all aspects are mandatory and waivers are not allowed
 
 From CBK
+
 - FIPS 140: Security Requirement for Cryptographic Modules
 - FIPS 186: Digital Signature Standard
 - FIPS 197: Advanced Encryption Standard
@@ -268,6 +270,7 @@ From CBK
 - incl. cryptographic protocols, security reqs, risk mgmt framework, governance, etc
 
 From CBK
+
 — SP 800-12: An Introduction to Computer Security: The NIST Handbook
 - SP 800-14: Generally Accepted Principles and Practices for Security IT Systems
 - SP 800-18: Guide for Developing Security Plans for Federal Systems
