@@ -225,6 +225,17 @@ higher EAL != better security
 
 SPICE/SPICD - Software Process Improvement and Capability Determination
 
+From CBK
+- ISO/IEC 15408: Common Criteria
+- ISO/IEC 21827:2008 - Systems Security Engineering Capability Maturity Model (SSE-CMM)
+- ISO/IEC 25000:2005 - Software Engineering Product Quality
+- ISO/IEC 27000:2009 - Information Security Management System (ISMS) Overview and Vocabulary 
+- ISO/IEC 27001:2005 - Information Security Management Systems Requirements
+- ISO/IEC 27002:2005/Cor1:1007 - Code of Practice for Information Security Management
+- ISO/IEC 27005:2008 - Information Security Rik Management
+- ISO/IEC 27006:2007 - Requirements for Bodies Providing Audit and Certification of Information Security Management Systems
+- ISO 28000:2007 - Specification for Security Management Systems for the Supply Chain
+
 ### NIST
 
 National Institute of Standards and Technology
@@ -244,11 +255,27 @@ Information Technology Laboratory (ITL)
 - few but broad in authority and scope
 - Since FISMA, all aspects are mandatory and waivers are not allowed
 
+From CBK
+- FIPS 140: Security Requirement for Cryptographic Modules
+- FIPS 186: Digital Signature Standard
+- FIPS 197: Advanced Encryption Standard
+- FIPS 201: Personal Identity Verification (PIV) of Federal Employees and Contractors
+
 #### NIST SP 800 Series
 
 - more commonly used by industry
 - communicate results of research/guidelines assoc with securing systems
 - incl. cryptographic protocols, security reqs, risk mgmt framework, governance, etc
+
+From CBK
+— SP 800-12: An Introduction to Computer Security: The NIST Handbook
+- SP 800-14: Generally Accepted Principles and Practices for Security IT Systems
+- SP 800-18: Guide for Developing Security Plans for Federal Systems
+- SP 800-27: Engineering Principles for Information Technology Security
+- SP 800-30 Risk Management Guide for IT
+- SP 800-61: Computer Security Incident Handling Guide
+- SP 800-64: Security Considerations in the Information Systems Development Life Cycle
+- SP 800-100: Information Security Handbook: A Guide for Managers
 
 #### Industry
 
